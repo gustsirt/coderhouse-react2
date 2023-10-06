@@ -1,0 +1,8 @@
+.cartWidget {
+  display: flex;
+  color: #ebdb94;
+  margin: 0 2em;
+}
+.cartWidget p {
+  padding: 0 10px;
+}/*# sourceMappingURL=styles.css.map */

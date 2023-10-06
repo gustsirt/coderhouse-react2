@@ -1,0 +1,12 @@
+@import '../../variables';
+
+.cartWidget{  
+  display: flex;
+  color: $color;
+  margin: 0 2em;
+
+  p{
+    padding: 0 10px;
+  }
+
+}
