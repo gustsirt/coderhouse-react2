@@ -2,7 +2,7 @@
   "name": "bolsosfj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gustsirt.github.io/git branch -M main/build",
+  "homepage": "https://gustsirt.github.io/coderhouse-react/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
